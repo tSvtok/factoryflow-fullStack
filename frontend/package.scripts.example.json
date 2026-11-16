@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "nodemon -L src/server.js",
+    "start": "node src/server.js",
+    "lint": "eslint .",
+    "test": "jest"
+  }
+}
